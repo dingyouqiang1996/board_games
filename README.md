@@ -21,4 +21,9 @@ cd common
 go get github.com/spf13/viper
 go get github.com/fsnotify/fsnotify
 ```
-
+## P8 封装日志库
+- 模块 `github.com/charmbracelet/log`
+```shell
+cd common
+go get github.com/charmbracelet/log@latest
+```
